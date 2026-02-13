@@ -1,0 +1,23 @@
+{
+  "id": 53462,
+  "name": "prompt-injection-manager",
+  "abbrName": "PR",
+  "description": "",
+  "devMode": 2,
+  "status": null,
+  "url": null,
+  "databaseHost": null,
+  "databasePort": null,
+  "databaseName": null,
+  "databaseUsername": null,
+  "databasePassword": null,
+  "projectInfo": {
+    "JOYCODE": {
+      "b3193698455": [
+        {
+          "b3193698455": 53462
+        }
+      ]
+    }
+  }
+}

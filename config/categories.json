@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "直接注入",
+      "slug": "direct-injection",
+      "description": "直接针对系统提示词的注入攻击",
+      "color": "#EF4444",
+      "icon": "zap"
+    },
+    {
+      "name": "间接注入",
+      "slug": "indirect-injection",
+      "description": "通过第三方内容进行的间接注入攻击",
+      "color": "#F59E0B",
+      "icon": "link"
+    },
+    {
+      "name": "社会工程学攻击",
+      "slug": "social-engineering",
+      "description": "利用心理学原理进行的攻击",
+      "color": "#8B5CF6",
+      "icon": "users"
+    },
+    {
+      "name": "代码注入",
+      "slug": "code-injection",
+      "description": "尝试执行代码或命令的注入攻击",
+      "color": "#EC4899",
+      "icon": "code"
+    },
+    {
+      "name": "多语言攻击",
+      "slug": "multilingual-attacks",
+      "description": "利用多种语言和编码技术绕过检测",
+      "color": "#06B6D4",
+      "icon": "globe"
+    },
+    {
+      "name": "对话劫持",
+      "slug": "conversation-hijacking",
+      "description": "通过上下文污染等方式劫持对话",
+      "color": "#10B981",
+      "icon": "message-circle"
+    },
+    {
+      "name": "逆向工程",
+      "slug": "reverse-engineering",
+      "description": "尝试提取系统提示词、推断规则",
+      "color": "#6366F1",
+      "icon": "search"
+    },
+    {
+      "name": "模型特定攻击",
+      "slug": "model-specific",
+      "description": "针对特定模型的越狱模板等",
+      "color": "#F97316",
+      "icon": "cpu"
+    }
+  ]
+}

@@ -322,6 +322,10 @@ npm run type-check            # 运行TypeScript类型检查
 
 ![image-20260213171010315](assets/image-20260213171010315.png)
 
+## 🎟许可证
+
+[LICENSE](https://github.com/EdinLyle/GMF/blob/main/LICENSE)
+
 ---
 
 **⚠️ 重要声明：本工具仅供安全研究和教育目的使用，请勿用于非法活动。使用者需遵守相关法律法规和道德准则。**

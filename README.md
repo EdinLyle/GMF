@@ -118,7 +118,7 @@ graph TB
 
 ![image-20260213182519624](assets/image-20260213182519624.png)
 
-## 用户Bug改进和优化
+## 工具Bug改进和优化
 
 这个在工具的应用菜单的帮助里面，点击后会直接进入问卷，由于工具当前是第一版，可能会出现bug或者需要改进的地方，希望各位师傅多多提出意见和建议，或者加入工具的交流群或者我的微信，直接提出也可以。
 
@@ -313,6 +313,10 @@ npm run type-check            # 运行TypeScript类型检查
 ## 🙏 致谢
 
 暂无。。。。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EdinLyle/GMF&type=date&legend=top-left)](https://www.star-history.com/#EdinLyle/GMF&type=date&legend=top-left)
 
 ## 📞 支持与联系
 
